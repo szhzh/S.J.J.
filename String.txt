@@ -1,0 +1,13 @@
+.Substring(2,3)-index 2 length 3
+.IndexOf("")-give the indexof the first found element in the string or -1 if there isnt such element
+.LastIndexOf("")- -||- the last found element-||-
+.Trim- remove all the characters that have code under 'u0020'
+.Concat("")- sum a string with another string
+.Replace("","")-replace a character with another
+.insert(4,"")-insert a string in index 4 
+.Remove(4,3)- remove a string from index 4 with length 3
+.Equals("")-true/false
+.Contains("")-true/false
+.StartsWith("")-true/false
+.EndsWith("")-true/false
+.CompareTo("")-0 if its equals,-1 if its alphabetic before the letter and +1 if its alphabetic after
